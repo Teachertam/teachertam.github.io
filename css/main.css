@@ -14,27 +14,27 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: purple;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size:3em;
+    font-family:'Comic sans', 'Arial', 'Sans-Serif';
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: green;
 }
 footer {
-    border-top: 1px solid #d5d5d5;
+    border-top: 2px solid #d5d5d8;
     font-size: .8em;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
+ul.posts {
+    margin: 20px auto 40px;
     font-size: 1.5em;
 }
 
